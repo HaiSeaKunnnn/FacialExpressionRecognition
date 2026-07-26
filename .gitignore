@@ -3,7 +3,7 @@ __pycache__/
 .venv/
 .env
 *.h5
-*.keras
+# *.keras
 *.ckpt
 *.log
 .DS_Store
